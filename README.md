@@ -71,7 +71,7 @@ WujiHand 抓取配置包含 6 维全局位姿与 20 个手指关节，共 26 个
 
 </details>
 
-[代码 / Code](https://github.com/wild-pointer-04/DRO_wujihand) · [学术主页中的项目详情](https://wild-pointer-04.github.io/#grasp)
+[代码 / Code](https://github.com/wild-pointer-04/DRO-Grasp-wujihand) · [学术主页中的项目详情](https://wild-pointer-04.github.io/#grasp)
 
 <sub>PyTorch · DGCNN · Cross-attention · CVAE · Open3D · Isaac Gym</sub>
 
