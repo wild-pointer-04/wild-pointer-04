@@ -21,7 +21,7 @@ My undergraduate project at **Lanzhou University of Technology** focused on visi
 | Project | What it explores | Tools |
 | :--- | :--- | :--- |
 | **[AIRBOT × Revo2](https://github.com/wild-pointer-04/airbot-revo-workspace)** | VIVE/PICO arm teleoperation, MANUS hand retargeting, and synchronized image/arm/hand recording in LeRobot episodes. | ROS 2 · gRPC · CAN · LeRobot |
-| **[DRO-Grasp → WujiHand](https://github.com/wild-pointer-04/DRO_wujihand)** | WujiHand adaptation, synthetic grasp data, paired point clouds, and configuration-invariant pretraining, built on [D(R,O) Grasp by Wei et al.](https://github.com/zhenyuwei2003/DRO-Grasp). | PyTorch · Point clouds · URDF |
+| **[DRO-Grasp → WujiHand](https://github.com/wild-pointer-04/DRO_wujihand)** | WujiHand adaptation, synthetic grasp data, paired point clouds, and configuration-invariant pretraining, built on [D(R,O) Grasp](https://github.com/zhenyuwei2003/DRO-Grasp) by Wei et al. | PyTorch · Point clouds · URDF |
 | **[UAV-VLA](https://github.com/wild-pointer-04/UAV-VLA)** | An undergraduate project connecting natural-language instructions and satellite imagery to a UAV mission-planning workflow, with a web interface and mission export. | VLM / LLM · Flask · ArduPilot |
 | **[Fisheye & ChArUco](https://github.com/wild-pointer-04/fisheye-camera-calibration-c-improved)** | Corner-point undistortion, standard PnP pose estimation, and reprojection-error analysis. | OpenCV · NumPy · PnP |
 
