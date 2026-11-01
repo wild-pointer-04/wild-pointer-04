@@ -48,7 +48,7 @@ I am a master’s student at **Central South University**, advised by **Dr. Xunh
 
 </details>
 
-[学术主页中的项目详情](https://wild-pointer-04.github.io/#rf)
+[私有仓库 / Private repository](https://github.com/wild-pointer-04/RF-LSTM) · [学术主页中的项目详情](https://wild-pointer-04.github.io/#rf)
 
 <sub>PyTorch · PPO · Masked Set Encoding · Policy Sharing · Skill Reuse</sub>
 
