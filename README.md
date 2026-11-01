@@ -1,4 +1,4 @@
-<p align="center"><img src="assets/header.svg" alt="吕鹤冉 / Heran Lü · 中南大学硕士研究生 · 导师戴训华博士" width="100%"></p>
+<p align="center"><img src="assets/header.svg" alt="吕鹤冉 / Herana · 中南大学硕士研究生 · 导师戴训华博士" width="100%"></p>
 
 <p align="center"><a href="https://wild-pointer-04.github.io/">学术主页 / Academic Homepage</a> · <a href="https://faculty.csu.edu.cn/daixunhua/zh_CN/index.htm">导师 / Advisor</a> · <b>ENTP</b></p>
 
