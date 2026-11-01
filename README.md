@@ -6,7 +6,7 @@
 
 我叫 **吕鹤冉（Heran Lü）**，目前是 **[中南大学](https://www.csu.edu.cn/)** 的硕士研究生，导师是 **[戴训华博士](https://faculty.csu.edu.cn/daixunhua/zh_CN/index.htm)**。
 
-我的研究兴趣集中在 **多智能体强化学习、策略复用与具身智能**，关注智能体如何在团队规模、环境和任务变化时复用已有技能，并通过感知、学习与控制的协同完成决策和操作。研究与工程实践围绕以下方向展开：
+我的研究兴趣集中在 **多智能体强化学习与具身智能**，研究与工程实践围绕以下方向展开：
 
 - **多智能体学习与协同决策**：集合观测编码、共享策略、分层决策与课程训练。
 - **灵巧操作与抓取表征**：真实物体点云、Robot–Object 几何表征与触觉稳定性评估。
@@ -20,11 +20,6 @@ I am a master’s student at **Central South University**, advised by **Dr. Xunh
   电子信息，硕士研究生，在读；导师：[戴训华博士](https://faculty.csu.edu.cn/daixunhua/zh_CN/index.htm)。
 - **兰州理工大学（Lanzhou University of Technology）** · 2022—2026
   软件工程，本科；专业排名：**1/215**。
-
-## 研究经历 / Research Experience
-
-- **2026.06—2026.09**：臂手协同遥操作与多模态示教采集，负责系统方案、动作重定向、末端控制与数据管线。
-- **2025.11—2026.06**：实物点云驱动的灵巧抓取，开展 WujiHand 适配、实物感知、抓取学习与触觉仿真评估。
 
 ## 研究项目 / Research Projects
 
