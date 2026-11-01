@@ -16,8 +16,10 @@ I am a master’s student at **Central South University**, advised by **Dr. Xunh
 
 ## 教育经历 / Education
 
-- **中南大学（Central South University）** · 硕士研究生，在读；导师：[戴训华博士](https://faculty.csu.edu.cn/daixunhua/zh_CN/index.htm)。
-- **兰州理工大学（Lanzhou University of Technology）** · 本科，软件工程。
+- **中南大学（Central South University）** · 2026—2029（预计毕业）
+  电子信息，硕士研究生，在读；导师：[戴训华博士](https://faculty.csu.edu.cn/daixunhua/zh_CN/index.htm)。
+- **兰州理工大学（Lanzhou University of Technology）** · 2022—2026
+  软件工程，本科；专业排名：**1/215**。
 
 ## 研究经历 / Research Experience
 
